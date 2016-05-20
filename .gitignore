@@ -1,3 +1,4 @@
 public/scripts/index.js
 lib/*
 node_modules
+firebase-debug.log

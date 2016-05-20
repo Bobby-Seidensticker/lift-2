@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "lift-test-c6df4"
+    "default": "lift-669c1",
+    "staging": "lift-staging",
+    "testing": "lift-test-c6df4",
+    "production": "lift-669c1"
   }
 }
