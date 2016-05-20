@@ -1,0 +1,5 @@
+#!/bin/bash
+
+babel --presets es2015,react src/ --out-dir lib/ --source-maps
+
+browserify lib/index.js --debug --outfile public/scripts/index.js
